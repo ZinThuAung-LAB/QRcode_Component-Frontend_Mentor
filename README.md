@@ -31,7 +31,7 @@ The core focus of this project was mastering fundamental CSS skills, including:
 
 ### Links
 
-- Solution URL: [https://github.com/ZinThuAung-LAB/Frontend-Mentor.git/](https://github.com/ZinThuAung-LAB/Frontend-Mentor.git/)
+- Solution URL: [https://github.com/ZinThuAung-LAB/QRcode_Component.git](https://github.com/ZinThuAung-LAB/QRcode_Component.git)
 - Live Site URL: [https://zinthuaung-lab.github.io/Frontend-Mentor/](https://zinthuaung-lab.github.io/Frontend-Mentor/)
 ## My process
 
