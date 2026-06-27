@@ -13,12 +13,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     min-height: 100vh;
 }
 
 .qr-container {
     width: 100%;
     max-width: 320px;
+    height: auto;
     padding: 16px;
     border-radius: 16px;
     background-color: hsl(0, 0%, 100%);
@@ -26,7 +28,6 @@ body {
     display: flex;
     text-align: center;
     flex-direction: column;
-    position: relative;
 }
 
 .qr-code {
@@ -49,7 +50,6 @@ p {
     font-size: 15px;
     line-height: 1.4;
     letter-spacing: 0.2px;
-    margin-bottom: 20px;
 }
 
 .attribution {
@@ -57,4 +57,16 @@ p {
     font-size: 12px;
     color: #68778D;
     text-align: center;
+    margin-top: 32px;
+}
+
+.attribution a {
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.attribution a:hover {
+    color: #1F314F; 
+    text-decoration: underline;
 }
