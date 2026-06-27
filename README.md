@@ -26,9 +26,7 @@ The core focus of this project was mastering fundamental CSS skills, including:
 
 ### Screenshot
 
-### Screenshot
-
-![](./QRCode%20Component/images/screenshot.png)
+![](./images/mobile_view.png)
 ![](./images/desktop_view.png)
 
 ### Links
